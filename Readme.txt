@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+The template design helped me to create my Portfolio resume 
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
