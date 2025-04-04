@@ -1,6 +1,2 @@
-The template design helped me to create my Portfolio resume 
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This portfolio was developed as part of the PLP Academy Portfolio Challenge. While I initially explored the project setup, all development, design, and enhancements were completed during the official challenge period (March 31 – April 4, 2025).
+This project showcases a modern, visually stunning, and highly responsive website designed with a strong focus on user experience and aesthetic appeal. The design leverages cutting-edge CSS techniques, animations, and transitions to create an engaging digital experience that adapts seamlessly across devices.
